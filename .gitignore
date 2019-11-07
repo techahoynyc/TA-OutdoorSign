@@ -36,6 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
-# TA-OutdoorSign #
+# Arduino files #
 ############
 *.h
+*.eep
+*.bin
+*.elf
+*.hex
